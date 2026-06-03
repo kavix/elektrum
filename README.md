@@ -58,7 +58,7 @@ Real-time energy monitoring system with predictive analytics, room-wise consumpt
 | **Database** | MongoDB |
 | **IoT/Sensors** | Real-time energy sensors |
 | **Data Processing** | Ridge Regression, Time-series analysis |
-| **Deployment** | [Your deployment platform] |
+| **Deployment** | Vercel & AWS EC2 |
 
 ---
 
@@ -234,8 +234,8 @@ Contributions welcome! Please:
 ## 📧 Contact & Support
 
 - **Issues**: Open a GitHub issue for bugs and feature requests
-- **Email**: [your-email@example.com]
-- **Live Demo**: [Link to deployed dashboard]
+- **Email**: kavix@yahoo.com
+- **Live Demo**: https://cd-kavindu.vercel.app/
 
 ---
 
