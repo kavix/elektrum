@@ -177,7 +177,7 @@ The system uses **Ridge Regression** for time-series forecasting:
 ## 🌍 Sri Lanka Specific Features
 
 - **Billing Integration**: Direct links to CEB and LECO portals
-- **Local Pricing**: Default rate ₹13.06/kWh (configurable)
+- **Local Pricing**: Default rate LKR 13.06/kWh (configurable)
 - **Carbon Footprint**: Monthly CO₂ tracking in kg
 - **Multi-Language Support**: Ready for Sinhala/Tamil translation
 
